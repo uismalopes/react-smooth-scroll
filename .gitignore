@@ -1,0 +1,12 @@
+node_modules
+
+# binaries
+bin/
+dist/
+
+# editors
+*.swp
+.idea/
+.vs/
+.vscode/
+.DS_Store
